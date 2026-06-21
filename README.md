@@ -237,7 +237,7 @@ fake_news_project
 ## 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/subhamkumarswain/fake_news_project.git
+git clone https://github.com/jagannathsahoo6370/fake_news_project.git
 
 cd fake_news_project
 ```
